@@ -9,6 +9,22 @@ A system to display list on a front end.
 
 
 
+
+This is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
+
+
+Install
+==========
+Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
+```bash
+uni import RowsGeneratorWidget
+```
+
+Or just download it and place it where you want otherwise.
+
+
+
+
 Intro
 ========
 
@@ -233,21 +249,10 @@ $model = RowsGeneratorWidgetUtil::getInfoArray($widgetName, $widget, $params);
 
 
 
+Related
+============
 
-
-
-This is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
-
-
-Install
-==========
-Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
-```bash
-uni import RowsGeneratorWidget
-```
-
-Or just download it and place it where you want otherwise.
-
+- https://github.com/lingtalfi/RowsGenerator
 
 
 
