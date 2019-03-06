@@ -1,7 +1,7 @@
 <?php
 
 
-namespace RowsGeneratorWidget\Widget;
+namespace Ling\RowsGeneratorWidget\Widget;
 
 
 interface RowsGeneratorWidgetInterface

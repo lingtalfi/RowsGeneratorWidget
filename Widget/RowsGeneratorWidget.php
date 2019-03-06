@@ -1,10 +1,10 @@
 <?php
 
 
-namespace RowsGeneratorWidget\Widget;
+namespace Ling\RowsGeneratorWidget\Widget;
 
 
-use RowsGenerator\RowsGeneratorInterface;
+use Ling\RowsGenerator\RowsGeneratorInterface;
 
 class RowsGeneratorWidget implements RowsGeneratorWidgetInterface
 {

@@ -12,10 +12,10 @@
  * 2017-06-19
  */
 
-use RowsGenerator\ArrayRowsGenerator;
-use RowsGeneratorWidget\Util\RowsGeneratorWidgetUtil;
-use RowsGeneratorWidget\Widget\RowsGeneratorWidget;
-use RowsGeneratorWidget\WidgetCollection\RowsGeneratorWidgetCollection;
+use Ling\RowsGenerator\ArrayRowsGenerator;
+use Ling\RowsGeneratorWidget\Util\RowsGeneratorWidgetUtil;
+use Ling\RowsGeneratorWidget\Widget\RowsGeneratorWidget;
+use Ling\RowsGeneratorWidget\WidgetCollection\RowsGeneratorWidgetCollection;
 
 
 require_once __DIR__ . "/../../boot.php"; // here I'm using kamille framework: https://github.com/lingtalfi/kamille
